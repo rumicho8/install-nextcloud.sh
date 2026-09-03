@@ -1,1 +1,0 @@
-# install-nextcloud.sh
